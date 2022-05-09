@@ -1,0 +1,23 @@
+Read and Edit Image Metadata with Python
+ - https://towardsdatascience.com/read-and-edit-image-metadata-with-python-f635398cd991#cac0
+ 
+How to Import Custom Python Packages on AWS Lambda Function
+  - https://www.youtube.com/watch?v=yyBSeGkuPqk
+  
+Python 3 Pillow Library Script to Remove EXIF Meta Information From Image File Full Project For Beginners
+  - https://codingshiksha.com/python/python-3-pillow-library-script-to-remove-exif-meta-information-from-image-file-full-project-for-beginners/
+
+Tutorial: Using an Amazon S3 trigger to create thumbnail images
+  - https://docs.aws.amazon.com/lambda/latest/dg/with-s3-tutorial.html#with-s3-tutorial-prepare-create-buckets
+
+AWS Serverless Application Model - Developer Guide
+  - https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-using-build.html
+
+Uploading a file to a S3 bucket with a prefix using Boto3
+  - https://stackoverflow.com/questions/37017244/uploading-a-file-to-a-s3-bucket-with-a-prefix-using-boto3
+  
+Script to extract Image metadata using Python and Pillow library.
+  - https://medium.com/nerd-for-tech/script-to-extract-image-metadata-using-python-and-pillow-library-53a6ae56ccc3
+
+How To Extract Image Metadata Using Python
+  - https://www.youtube.com/watch?v=3m3sE_ZMoSc
